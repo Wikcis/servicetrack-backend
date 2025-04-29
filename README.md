@@ -72,7 +72,7 @@ Each module contains its own changelog file that organizes the migrations for th
 
 Individual migration files within a module's migration directory define the specific database changes. These files contain the instructions to create objects.
 
-`serviceorder/serviceorder-repository/src/main/resources/db/serviceorder/migration/00_init_serviceorder_schema.yaml` - migration used to create service order database schema.
+`serviceorder/serviceorder-repository/src/main/resources/db/serviceorder/migration/00_init_serviceorder_schema.yaml`: migration used to create service order database schema.
 
 ## Workflows
 The project contain workflow:
