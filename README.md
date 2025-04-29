@@ -66,11 +66,12 @@ The project uses Liquibase for managing database migrations. Liquibase enables d
 `main-web/src/main/resources/db/changelog/db.changelog-master.yaml`:  The root changelog, which aggregates all other changelog files from various modules.
 
 Each module contains its own changelog file that organizes the migrations for that module, for example: 
+
 `serviceorder/serviceorder-repository/src/main/resources/db/serviceorder/changelog/db.serviceorder.yaml`: root changelog file of service order domain containing all the migrations in the domain
 
 
-Individual migration files within a module's migration directory define the specific database changes.  
-These files contain the instructions to create objects.
+Individual migration files within a module's migration directory define the specific database changes. These files contain the instructions to create objects.
+
 `serviceorder/serviceorder-repository/src/main/resources/db/serviceorder/migration/00_init_serviceorder_schema.yaml` - migration used to create service order database schema.
 
 ## Workflows
