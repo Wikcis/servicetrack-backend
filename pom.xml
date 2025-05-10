@@ -39,7 +39,7 @@
 		<postgresql.version>42.7.4</postgresql.version>
 		<org.springframework.security.version>6.3.4</org.springframework.security.version>
 		<jakarta.servlet-api.version>6.1.0</jakarta.servlet-api.version>
-		<jjwt-api.version>0.11.5</jjwt-api.version>
+		<jjwt-api.version>0.12.6</jjwt-api.version>
 		<jjwt-impl.version>0.11.5</jjwt-impl.version>
 		<jjwt-jackson.version>0.11.5</jjwt-jackson.version>
 		<spring-security-web.version>6.1.5</spring-security-web.version>
