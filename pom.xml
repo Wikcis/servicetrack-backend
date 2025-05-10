@@ -27,7 +27,7 @@
 
 	<properties>
 		<java.version>17</java.version>
-		<spring-boot-starter-web.version>3.4.2</spring-boot-starter-web.version>
+		<spring-boot-starter-web.version>3.4.4</spring-boot-starter-web.version>
 		<spring-jdbc.version>6.2.2</spring-jdbc.version>
 		<spring-context.version>6.2.2</spring-context.version>
 		<spring-web.version>6.1.14</spring-web.version>
