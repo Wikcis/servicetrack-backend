@@ -42,7 +42,7 @@
 		<jjwt-api.version>0.11.5</jjwt-api.version>
 		<jjwt-impl.version>0.11.5</jjwt-impl.version>
 		<jjwt-jackson.version>0.11.5</jjwt-jackson.version>
-		<spring-security-web.version>6.1.5</spring-security-web.version>
+		<spring-security-web.version>6.5.0</spring-security-web.version>
 		<spring-security-config.version>6.1.5</spring-security-config.version>
 		<maven.compiler.version>3.8.1</maven.compiler.version>
 	</properties>
